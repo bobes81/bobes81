@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in coding:) gym, movies, travel, taking care of my dog :)
-- 🌱 I’m currently learning HTML, CSS, Python, Java
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
 - 💞️ I’m looking to collaborate on : well, thats a good question :)
 - 📫 How to reach me : ivan.kimpl@gmail.com
 - 😄 Pronouns: he/him 
